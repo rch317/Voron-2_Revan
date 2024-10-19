@@ -24,29 +24,29 @@ https://github.com/VoronDesign/Voron-2/blob/Voron2.4/Manual/Assembly_Manual_2.4r
 ## Mods
 I've printed and tested a variety of mods, and quickly realized I wasn't doing a very good job of tracking them. This becomes a problem when you need to replace parts... So here we are, trying to keep track of them.
 
-  - Nevermore Micro
-    - https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6
-      - A nice filtering system for the V2. The LDO kit ships with parts to build the V5_Duo, but everything fit for the V6, so that's what I ended up using.
+#### Nevermore Micro
+- https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6
+    - A nice filtering system for the V2. The LDO kit ships with parts to build the V5_Duo, but everything fit for the V6, so that's what I ended up using.
 
-  - PUG (Parametric Umbilical Gland)
-    - https://www.printables.com/model/378567-pug-parametric-umbilical-gland
-      - A great mod if you don't have the means to depin connectors on a cable to pass through a typical PG7 or similar gland.
+#### PUG (Parametric Umbilical Gland)
+- https://www.printables.com/model/378567-pug-parametric-umbilical-gland
+    - A great mod if you don't have the means to depin connectors on a cable to pass through a typical PG7 or similar gland.
 
-  - Another toolhead umbilical for Voron 2.4
-    - https://www.printables.com/model/411846-another-toolhead-umbilical-for-voron-24
-      - Not sure I'm using this as-is yet.
+#### Another toolhead umbilical for Voron 2.4
+- https://www.printables.com/model/411846-another-toolhead-umbilical-for-voron-24
+    - Not sure I'm using this as-is yet.
 
-  - No Z Chain for Voron 2.4
-    - https://www.printables.com/model/712328-no-z-chain-for-voron-24
-      - Not sure I'm using this as-is yet
+#### No Z Chain for Voron 2.4
+- https://www.printables.com/model/712328-no-z-chain-for-voron-24
+    - Not sure I'm using this as-is yet
 
-  - CW2 Mounting Arm for PUG
-    - https://www.printables.com/model/747487-clockwork-2-mounting-arm-for-pug-umbilical
+#### CW2 Mounting Arm for PUG
+- https://www.printables.com/model/747487-clockwork-2-mounting-arm-for-pug-umbilical
 
-  - Voron 2 Bed Stop Stopper Mount Guide Holder
-    - https://www.printables.com/model/694247-voron-2-bed-stop-stopper-mount-guide-holder
-      - I found this to be exceptionally useful, as even the roll-in t-nuts liked to move around on me from time to time, making re-aligning a bit of a pain. This also did a great job of holding the thumb screws in position as I mounted the plate.
+#### Voron 2 Bed Stop Stopper Mount Guide Holder
+- https://www.printables.com/model/694247-voron-2-bed-stop-stopper-mount-guide-holder
+    - I found this to be exceptionally useful, as even the roll-in t-nuts liked to move around on me from time to time, making re-aligning a bit of a pain. This also did a great job of holding the thumb screws in position as I mounted the plate.
 
-  - SB Facelift
-     - https://www.printables.com/model/789456-improved-stealthburner-faces-with-stripes-claws-an
-     - I went with the hex pattern
+#### SB Facelift
+- https://www.printables.com/model/789456-improved-stealthburner-faces-with-stripes-claws-an
+    - I went with the hex pattern
