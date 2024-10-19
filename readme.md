@@ -18,9 +18,8 @@ Something I didn't do, that I kind of regret, was utilizing the main documentati
 assembly manual, and there we definitely "tips and tricks" that I initially missed. Start here, then move to the assembly.
 
 https://docs.vorondesign.com/
-https://github.com/VoronDesign/Voron-2/blob/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf
 
-##
+https://github.com/VoronDesign/Voron-2/blob/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf
 
 ## Mods
 I've printed and tested a variety of mods, and quickly realized I wasn't doing a very good job of tracking them. This becomes a problem when you need to replace parts... So here we are, trying to keep track of them.
