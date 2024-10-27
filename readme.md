@@ -1,52 +1,67 @@
 # Voron 2.4r2 - Revan
+## LDO Voron v2.4r2 (Rev.D) 300m kit
 
-General build log for my first Voron v2.4, that I have named Revan.  Most of this is being done well after
-the fact, so I'm likely forgettings things. Mostly being done for my own peace of mind, but maybe it will
-help someone else, who knows? Best part, I'll have a good place to store configs and such. So let's start
-there. Want to build a Voron? If so; I would highly recommend you start a git repo and track your progress,
-especially your `printer.cfg` (and other configs)
+General assortment of how my V2 was built and modified. I'll add STL's to the repo once I get around to cleaning them up a bit. A lot of this stuff was hacked together to make it work for my needs. Likely, there's a better mod out there to do exactly what I had done... but I couldn't find them.
 
-## The BOM
-I had originally inteded to self-source, but quickly shifted into buying various kits. I started with a fastener
-kit, and then a frame... then on an impulsive whim late one night,  I just bought an entire LDO Rev.D kit. 
-` ¯\_(ツ)_/¯`
+### Changes / Extras
+  - Raspberry Pi 4b
+  - Replaced clear panels w/DarkMode
+  - Added titanium backers
+  - Logitech C920x
+  - Added 6mm slot 20 dust covers (black)
+  - Swapped inductive probe for Cartographer
+    - https://cartographer3d.com/ 
 
-I purchased the kit from [KB3D](https://kb-3d.com/), and fortunately they are only about 4hrs from me. That means 1-2 day shipping, usually... Unless the USPS does the dumb. Which they have done the dumb twice now.
-
-## The Build(tm)
-Something I didn't do, that I kind of regret, was utilizing the main documentation site. I jumped right into the
-assembly manual, and there we definitely "tips and tricks" that I initially missed. Start here, then move to the assembly.
-
-https://docs.vorondesign.com/
-
-https://github.com/VoronDesign/Voron-2/blob/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf
-
-## Mods
-I've printed and tested a variety of mods, and quickly realized I wasn't doing a very good job of tracking them. This becomes a problem when you need to replace parts... So here we are, trying to keep track of them.
-
+### Mods
 #### Nevermore Micro
 - https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6
-    - A nice filtering system for the V2. The LDO kit ships with parts to build the V5_Duo, but everything fit for the V6, so that's what I ended up using.
 
 #### PUG (Parametric Umbilical Gland)
 - https://www.printables.com/model/378567-pug-parametric-umbilical-gland
-    - A great mod if you don't have the means to depin connectors on a cable to pass through a typical PG7 or similar gland.
 
-#### Another toolhead umbilical for Voron 2.4
-- https://www.printables.com/model/411846-another-toolhead-umbilical-for-voron-24
-    - Not sure I'm using this as-is yet.
+#### Umbilical Rear Passthrough for PUG
+- https://www.printables.com/model/972543-umbilical-rear-passthrough-for-pug
 
 #### No Z Chain for Voron 2.4
 - https://www.printables.com/model/712328-no-z-chain-for-voron-24
-    - Not sure I'm using this as-is yet
+  - I'm actually on using bits and pieces from this...
+
+#### Voron2.4 Z Umbilical
+- https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/Voron2.4_Z_Umbilical
+  - I'm only using the main cover, and hacked it a bit in fusion
 
 #### CW2 Mounting Arm for PUG
 - https://www.printables.com/model/747487-clockwork-2-mounting-arm-for-pug-umbilical
 
 #### Voron 2 Bed Stop Stopper Mount Guide Holder
 - https://www.printables.com/model/694247-voron-2-bed-stop-stopper-mount-guide-holder
-    - I found this to be exceptionally useful, as even the roll-in t-nuts liked to move around on me from time to time, making re-aligning a bit of a pain. This also did a great job of holding the thumb screws in position as I mounted the plate.
 
 #### SB Facelift
 - https://www.printables.com/model/789456-improved-stealthburner-faces-with-stripes-claws-an
     - I went with the hex pattern
+
+#### Clicky-Clack Doors
+- https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door/STLs
+    - Panels from KB3D
+
+#### AngryCam Logitech C270 Voron (Worked for my C920x)
+- https://www.printables.com/model/487010-angrycam-logitech-c270-voron
+
+#### Voron Disco/Daylight on a Stick LED Mount Try With Snap-On Diffuser
+- https://www.printables.com/model/795364-voron-discodaylight-on-a-stick-led-mount-tray-with
+  - The hole alignment is a little off from the Disco on a Stick LED PCB's I had...
+
+#### Printable snap latches for 2020
+- https://mods.vorondesign.com/details/9Rdnf5vD2oaJLmR7BpAuQ
+  - Work great, I used 5mm or 5.5mm latches on 3mm panels with 3mm foam tape.
+
+#### Ellis Retractor Mount
+- https://mods.vorondesign.com/details/avSsiCFH7Vte3kYhqt4atA
+
+#### Ellis Bed Fan Mounts
+- https://mods.vorondesign.com/details/28xgztUufAtAfV4XUL5l4w
+
+#### Corner Cable Cover
+- https://mods.vorondesign.com/details/rXJYi9H1vNzno2fZlwAB3g
+
+
